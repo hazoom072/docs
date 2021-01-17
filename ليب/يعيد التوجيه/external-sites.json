@@ -1,4 +1,4 @@
-{
+<a href="/github/site-policy/github-terms-of-service" class="dotcom-only">GitHub's Terms of Service</a>
   "/articles/deploying-with-capistrano": "https://github.com/capistrano/capistrano/blob/master/README.md",
   "/articles/managing-deploy-keys": "https://developer.github.com/guides/managing-deploy-keys/",
   "/articles/testing-webhooks": "http://developer.github.com/webhooks/testing/",
